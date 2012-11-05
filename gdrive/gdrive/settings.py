@@ -125,6 +125,7 @@ INSTALLED_APPS = (
     'django_extensions',
     'south',
     'gdoauth2',
+    'gdfiles',
 )
 
 # A sample logging configuration. The only tangible logging
