@@ -1,4 +1,7 @@
+*client_secrets.json
 *.py[co]
+*.db
+.*.swp
 
 # Packages
 *.egg
